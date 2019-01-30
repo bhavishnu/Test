@@ -9,7 +9,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 
 public class CreateRequest {
-	public WebDriver  driver;
+	public WebDriver driver;
 	
 	public CreateRequest(WebDriver driver) {
 		this.driver = driver;
