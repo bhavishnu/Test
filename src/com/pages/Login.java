@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 
 import com.Utilities.Utilites;
 
-public class Login extends Utilities {
+public class Login  extends Utilities {
 	
 	public WebDriver driver;
 	
