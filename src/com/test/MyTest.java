@@ -15,7 +15,7 @@ import com.Utilities.Utilites;
 
 
 
-public class MyTest extends TestBase {
+public class MyTest  extends TestBase {
 	Login login; //Initialize class
 	
 	CreateRequest createreq;
